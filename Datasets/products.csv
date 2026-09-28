@@ -1,0 +1,26 @@
+product_id,category,subcategory,product_name,price
+P001,Electronics,Mobiles,Smartphone A,18000
+P002,Electronics,Mobiles,Smartphone B,25000
+P003,Electronics,Laptops,Laptop Pro,65000
+P004,Electronics,Laptops,Laptop Air,52000
+P005,Electronics,Accessories,Wireless Mouse,900
+P006,Electronics,Accessories,Bluetooth Headphones,2200
+P007,Electronics,Accessories,USB-C Charger,1200
+P008,Home & Kitchen,Kitchen,Mixer Grinder,3500
+P009,Home & Kitchen,Kitchen,Air Fryer,6500
+P010,Home & Kitchen,Home Decor,Table Lamp,1800
+P011,Home & Kitchen,Home Decor,Wall Clock,1100
+P012,Fashion,Men,Men's T-Shirt,799
+P013,Fashion,Men,Men's Jeans,1499
+P014,Fashion,Women,Women's Kurti,1299
+P015,Fashion,Women,Women's Jeans,1799
+P016,Fashion,Footwear,Running Shoes,2499
+P017,Beauty,Skincare,Face Wash,499
+P018,Beauty,Skincare,Moisturizer,699
+P019,Beauty,Haircare,Shampoo,599
+P020,Beauty,Makeup,Lipstick,899
+P021,Sports,Fitness,Yoga Mat,999
+P022,Sports,Fitness,Dumbbells,1999
+P023,Sports,Outdoor,Cricket Bat,2999
+P024,Books,Educational,Data Analytics Book,799
+P025,Books,Educational,Python Programming Book,999
